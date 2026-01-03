@@ -6,6 +6,14 @@
 
 This is an **agent skill** for [OpenAI Codex](https://developers.openai.com/codex/skills) - the AI-powered coding agent. Skills extend Codex's capabilities by providing specialized knowledge, workflows, and tools for specific domains.
 
+## Previews
+
+| Skill Overview | Skill Activation | Output Example |
+|:--------------:|:----------------:|:--------------:|
+| ![Skill Overview](img/preview-1.png) | ![Skill Activation](img/preview-2.png) | ![Output Example](img/preview-3.png) |
+
+
+
 ## Installation
 
 ### Option 1: Manual Installation (Recommended)
